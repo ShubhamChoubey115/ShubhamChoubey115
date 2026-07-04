@@ -27,4 +27,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
+## 📊 Coding Profiles
+- 🟢 GeeksforGeeks: https://www.geeksforgeeks.org/user/yourusername/
+- <img width="1247" height="641" alt="image" src="https://github.com/user-attachments/assets/fc05e95d-d21c-4a69-b093-aff06a9484d4" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
