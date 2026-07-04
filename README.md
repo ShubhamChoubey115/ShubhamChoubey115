@@ -29,6 +29,7 @@
 ---
 ## 📊 Coding Profiles
 - 🟢 GeeksforGeeks: [Visit Profile](https://www.geeksforgeeks.org/profile/shubhamchoubey115?tab=activity)
-- <img width="1247" height="641" alt="image" src="https://github.com/user-attachments/assets/fc05e95d-d21c-4a69-b093-aff06a9484d4" />
+- <img width="1247" height="503" alt="image" src="https://github.com/user-attachments/assets/61fad1a0-701d-4cea-baa6-f836bee71939" />
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
