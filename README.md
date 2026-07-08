@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>I'm a Java Backend Developer with 2+ years of experience building scalable and high-performance applications.<br><br>💼 Currently working with Java, Spring Boot, Microservices, REST APIs, Hibernate, SQL, and Git.<br><br>🚀 I'm passionate about designing clean backend architectures, solving real-world problems, and continuously learning new technologies.<br><br>🌱 Currently exploring React, System Design, and AI-powered applications while building full-stack projects.<br><br>🎯 My goal is to become a highly skilled Software Engineer capable of building enterprise-grade applications from end to end.
+## <br>I'm a Java Backend Developer with 2+ years of experience building scalable and high-performance applications.<br><br>💼 Currently working with Java, Spring Boot, Microservices, REST APIs, Hibernate, SQL, and Git.<br><br>🚀 I'm passionate about designing clean backend architectures, solving real-world problems, and continuously learning new technologies.<br><br>🌱 Currently exploring React, System Design, and AI-powered applications while building full-stack projects.<br><br>🎯 My goal is to become a highly skilled Software Engineer capable of building enterprise-grade applications from end to end.
 
 
 ## 🌐 Socials:
@@ -23,7 +23,7 @@
 ![JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![CloudBees](https://img.shields.io/badge/CloudBees-1997B5?style=for-the-badge&logo=cloudbees&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
