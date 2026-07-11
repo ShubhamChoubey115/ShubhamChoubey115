@@ -103,8 +103,8 @@ To become a Software Engineer capable of designing and delivering enterprise-sca
 <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge"/>
 </a>
 
-<a href="https://www.linkedin.com/in/shubhamchoubey115">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/shubhamchoubey115" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
