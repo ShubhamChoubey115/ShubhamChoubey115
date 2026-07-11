@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Choubey</h1>
 
 <h3 align="center">
-A Passionate Full Stack Developer from India
+A Passionate Full Stack Developer
 </h3>
 
 <p align="center">
