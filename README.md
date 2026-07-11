@@ -80,9 +80,15 @@ To become a Software Engineer capable of designing and delivering enterprise-sca
 
 ### 🟢 GeeksforGeeks
 
-<a href="https://www.geeksforgeeks.org/profile/shubhamchoubey115">
-<img src="https://github.com/user-attachments/assets/61fad1a0-701d-4cea-baa6-f836bee71939" width="900">
+<a href="https://www.geeksforgeeks.org/profile/shubhamchoubey115?tab=activity" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/user-attachments/assets/61fad1a0-701d-4cea-baa6-f836bee71939" width="900" alt="GeeksforGeeks Profile">
 </a>
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/shubhamchoubey115?tab=activity" target="_blank" rel="noopener noreferrer">
+    🔗 <b>View My GeeksforGeeks Activity Profile</b>
+  </a>
+</p>
 <div align="center">
 
 # 🚀 Open to Opportunities
