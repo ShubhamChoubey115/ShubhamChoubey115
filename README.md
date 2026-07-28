@@ -50,30 +50,38 @@ Become a Software Engineer capable of designing enterprise-scale distributed sys
 
 # 💻 Tech Stack
 
-## 🚀 Backend
+### 🚀 Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate"/>
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge)
 
-## 🌐 Frontend
+### ⚡ Architecture
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,angular,js,html,css,tailwind"/>
-</p>
+![Microservices](https://img.shields.io/badge/Microservices-orange?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-blue?style=for-the-badge)
 
-## 🗄 Database
+### 🌐 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-## ☁ DevOps & Tools
+### 🗄 Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,idea,vscode"/>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
+### ☁ Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ---
 
 # 📈 GitHub Statistics
@@ -89,12 +97,6 @@ Become a Software Engineer capable of designing enterprise-scale distributed sys
 
 <br><br>
 
-<!-- Stats -->
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShubhamChoubey115&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamChoubey115&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 ---
@@ -109,37 +111,20 @@ Become a Software Engineer capable of designing enterprise-scale distributed sys
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 Coding Profile
 
-<p align="center">
+### 🟢 GeeksforGeeks
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShubhamChoubey115&theme=tokyonight&no-frame=true&column=7"/>
-
-</p>
-
----
-
-# 📊 GeeksforGeeks Profile
-
-<p align="center">
-
-<a href="https://www.geeksforgeeks.org/profile/shubhamchoubey115?tab=activity">
-
-<img src="https://github.com/user-attachments/assets/61fad1a0-701d-4cea-baa6-f836bee71939"/>
-
+<a href="https://www.geeksforgeeks.org/profile/shubhamchoubey115?tab=activity" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/user-attachments/assets/61fad1a0-701d-4cea-baa6-f836bee71939" width="900" alt="GeeksforGeeks Profile">
 </a>
 
-</p>
-
 <p align="center">
-
-<a href="https://www.geeksforgeeks.org/profile/shubhamchoubey115?tab=activity">
-
-<b>🔗 View My GeeksforGeeks Profile</b>
-
-</a>
-
+  <a href="https://www.geeksforgeeks.org/profile/shubhamchoubey115?tab=activity" target="_blank" rel="noopener noreferrer">
+    🔗 <b>View My GeeksforGeeks Activity Profile</b>
+  </a>
 </p>
+
 
 ---
 
@@ -170,35 +155,3 @@ Java Backend Developer • Spring Boot • Microservices
 </a>
 
 </div>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:shubhamchoubey115@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/shubhamchoubey115">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/ShubhamChoubey115">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ShubhamChoubey115&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
