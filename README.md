@@ -140,7 +140,7 @@ Java Backend Developer • Spring Boot • Microservices
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&pause=1200&color=FF6B00&center=true&vCenter=true&width=700&lines=Looking+for+Backend+Developer+Roles;Available+for+Full-Time+Opportunities;Spring+Boot+Developer;Microservices+Developer;Let's+Build+Something+Awesome!"/>
 
-<br><br>
+<br>
 
 <a href="mailto:shubhamchoubey115@gmail.com">
 
