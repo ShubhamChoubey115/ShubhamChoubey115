@@ -7,7 +7,7 @@ Hi 👋, I'm <b>Shubham Choubey</b>
 </h1>
 
 <h3 align="center">
-Java Backend Developer • Spring Boot • Microservices
+Java Full Stack Developer • Spring Boot • Microservices • Angular
 </h3>
 
 <p align="center">
@@ -83,22 +83,6 @@ Become a Software Engineer capable of designing enterprise-scale distributed sys
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ---
-
-### 🟢 GeeksforGeeks
-
-<a href="https://www.geeksforgeeks.org/profile/shubhamchoubey115?tab=activity" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/user-attachments/assets/61fad1a0-701d-4cea-baa6-f836bee71939" width="900" alt="GeeksforGeeks Profile">
-</a>
-
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/profile/shubhamchoubey115?tab=activity" target="_blank" rel="noopener noreferrer">
-    🔗 <b>View My GeeksforGeeks Activity Profile</b>
-  </a>
-</p>
-
-
----
-
 # 🚀 Open To Work
 
 <div align="center">
