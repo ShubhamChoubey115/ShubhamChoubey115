@@ -84,35 +84,6 @@ Become a Software Engineer capable of designing enterprise-scale distributed sys
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ---
 
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<!-- Streak -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ShubhamChoubey115&theme=tokyonight&hide_border=true" />
-  <img width="100%" src="https://streak-stats.demolab.com?user=ShubhamChoubey115&hide_border=true" />
-</picture>
-
-<br><br>
-
-</div>
-
----
-
-# 📊 GitHub Activity Graph
-
-<p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamChoubey115&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Coding Profile
-
 ### 🟢 GeeksforGeeks
 
 <a href="https://www.geeksforgeeks.org/profile/shubhamchoubey115?tab=activity" target="_blank" rel="noopener noreferrer">
