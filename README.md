@@ -20,7 +20,7 @@ Java Full Stack Developer • Spring Boot • Microservices • Angular
 
 <img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🚀 Java Backend Developer with **2+ years** of experience building scalable backend applications.
+🚀 Java Backend Developer with **2.5+ years** of experience building scalable backend applications.
 
 💡 Passionate about writing clean, maintainable and production-ready backend systems.
 
